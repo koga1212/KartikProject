@@ -14,7 +14,7 @@ This repository documents the tools and setup process completed as part of my ap
 - **Cursor IDE** — An AI-powered code editor built on top of VS Code, designed to work with AI assistants for faster development and content creation.
 - **Claude Code Extension** — An extension inside Cursor that provides access to Anthropic's Claude AI directly within the editor for writing, debugging, and brainstorming.
 - **Codex Extension** — An extension inside Cursor that connects to OpenAI's Codex, enabling AI-assisted coding and content generation.
-- **Git & GitHub** — Version control system and cloud-based platform for managing and sharing code repositories.
+
 
 ---
 
